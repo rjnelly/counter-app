@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FirstApp</string>
+    <string name="app_name">Plus One</string>
     <string name="counter_btn">Count</string>
     <string name="toast_btn_label">Toast</string>
     <string name="zero">0</string>
